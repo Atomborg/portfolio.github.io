@@ -9,6 +9,7 @@ Introduction about the company
 
 ### Portoflio Projects
 [Project 1] (https://youtu.be/qTW6VVzHsyo?si=LBot71HhaOnxJ0ff)
+[Project 2] (https://youtu.be/Xr3vzwomk68?si=tfw-VDNVdQAK4K3U)
 
 ### Testimonials
 - Client 1
