@@ -8,7 +8,7 @@ Introduction about the company
 2019 National Arts Museum Exhibition
 
 ### Portoflio Projects
-[URL] https://youtu.be/qTW6VVzHsyo?si=LBot71HhaOnxJ0ff
+[Project 1] (https://youtu.be/qTW6VVzHsyo?si=LBot71HhaOnxJ0ff)
 
 ### Testimonials
 - Client 1
